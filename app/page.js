@@ -27,6 +27,7 @@ const Index = () => {
               <div className="grid lg:grid-cols-2 gap-8 items-center">
                 {/* Left Content */}
               <div className="text-center lg:text-left animate-fade-in">
+                <h3 className="font-heading lg:text-7xl  text-maroon text-gold font-semibold mb-4">Shree Sampoorna Pooja</h3>
                 <h1 className="font-heading text-3xl text-maroon md:text-4xl lg:text-5xl text-primary font-semibold leading-tight mb-4">
                   Bring Positivity,<br />
                   <span className="italic">Faith & Peace</span> into Your Home
@@ -111,7 +112,7 @@ const Index = () => {
                 <div className="w-10 h-10 rounded-full bg-[#25D366] flex items-center justify-center">
                   <MessageCircle className="w-5 h-5 text-white" />
                 </div>
-                <span className="font-heading text-xl text-primary font-semibold">9856234567</span>
+                <span className="font-heading text-xl text-primary font-semibold">7768090844</span>
               </div>
               <WhatsAppButton>
                 <span className="text-xs">✦</span>
@@ -150,7 +151,7 @@ const Index = () => {
           
           <div className="text-center mt-10">
             <Button variant="outline" size="lg" asChild>
-              <Link href="/products">View All Products</Link>
+              <Link href="/pages/products">View All Products</Link>
             </Button>
           </div>
         </div>

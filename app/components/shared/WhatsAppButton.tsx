@@ -8,7 +8,7 @@ interface WhatsAppButtonProps extends Omit<ButtonProps, 'variant' | 'asChild'> {
 }
 
 export function WhatsAppButton({
-  phone = "919856234567",
+  phone = "917768090844",
   message = "Hello, I would like to order a Pooja Box.",
   className,
   children = "Order on WhatsApp",
