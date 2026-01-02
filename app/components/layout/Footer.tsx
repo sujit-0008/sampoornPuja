@@ -10,7 +10,7 @@ export function Footer() {
           {/* Brand */}
           <div className="text-center md:text-left">
             <h3 className="font-heading text-xl text-primary font-semibold mb-3">
-              Shree Sampoorna Pooja Samagri
+              Shree Sampoorna Pooja 
             </h3>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Bringing divine essentials to your doorstep with purity, trust, and devotion.
@@ -21,16 +21,16 @@ export function Footer() {
           <div className="text-center">
             <h4 className="font-heading text-lg text-primary font-medium mb-3">Quick Links</h4>
             <nav className="flex flex-col gap-2">
-              <Link href="/products" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+              <Link href="/pages/products" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                 Products
               </Link>
-              <Link href="/about" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+              <Link href="/pages/about" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                 About Us
               </Link>
-              <Link href="/whats-inside" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+              <Link href="/pages/whatsInside" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                 What's Inside
               </Link>
-              <Link href="/contact" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+              <Link href="/pages/contact" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                 Contact
               </Link>
             </nav>
@@ -42,7 +42,7 @@ export function Footer() {
             <div className="flex flex-col gap-2 text-sm text-muted-foreground">
               <div className="flex items-center justify-center md:justify-end gap-2">
                 <Phone className="w-4 h-4 text-gold" />
-                <span>+91 98XXXXXXXX</span>
+                <span>+91 7768090844</span>
               </div>
               <div className="flex items-center justify-center md:justify-end gap-2">
                 <Mail className="w-4 h-4 text-gold" />
