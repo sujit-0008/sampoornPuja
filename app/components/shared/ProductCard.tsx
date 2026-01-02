@@ -24,7 +24,7 @@ export function ProductCard({ title, subtitle, image }: ProductCardProps) {
         </h3>
         <p className="text-muted-foreground text-sm mb-4">{subtitle}</p>
         <Button variant="golden" size="sm" asChild>
-          <Link href="/products">
+          <Link href="/pages/products">
             <span className="text-xs">✦</span>
             View Details
             <span className="text-xs">✦</span>

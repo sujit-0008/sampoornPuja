@@ -14,19 +14,19 @@ const products = [
   },
   {
     id: 2,
-    title: "Shree Sampoorna Pooja Box",
+    title: "Shree Sampoorna Satyanaryan Pooja Box",
     subtitle: "Complete Pooja Set for All Rituals",
     image: productImage,
   },
   {
     id: 3,
-    title: "Shree Sampoorna Pooja Box",
+    title: "Shree Sampoorna Laksmi Pooja Box",
     subtitle: "Complete Pooja Set for All Rituals",
     image: productImage,
   },
   {
     id: 4,
-    title: "Shree Sampoorna Pooja Box",
+    title: "Shree Sampoorna shiv Pooja Box",
     subtitle: "Complete Pooja Set for All Rituals",
     image: productImage,
   },
