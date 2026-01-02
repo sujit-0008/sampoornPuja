@@ -92,7 +92,7 @@ export function Header() {
 
       {/* Mobile Navigation */}
       {isMenuOpen && (
-        <nav className="md:hidden bg-cream border-t border-gold/20 py-4">
+        <nav className="md:hidden bg-[#ffd042]  border-t border-gold/20 py-4">
           <div className="container flex flex-col gap-3">
             {navLinks.map((link) => (
               <Link

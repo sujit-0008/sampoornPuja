@@ -137,12 +137,12 @@ const Index = () => {
               image={productImage}
             />
             <ProductCard
-              title="Shree Sampoorna Pooja Box"
+              title="Shree Sampoorna Satyanarayan Pooja Box"
               subtitle="Complete pooja set for all rituals "
               image={productImage}
             />
             <ProductCard
-              title="Shree Sampoorna Pooja Box"
+              title="Shree Sampoorna Laksmi Pooja Box"
               subtitle="Complete pooja set for all rituals"
               image={productImage}
             />
