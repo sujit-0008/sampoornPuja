@@ -34,10 +34,7 @@ export default function WhatsInsidePage() {
               <h1 className="font-serif text-5xl text-[#8B2635] font-bold leading-tight">What's Inside</h1>
               <h2 className="text-2xl text-[#3D2817] font-semibold">Complete Set of Pooja Essentials in One Box</h2>
               <p className="text-[#6B5344] leading-relaxed">
-                Lorem ipsum qut sem, heum rhes, muslit bis Gallus wih idl, non malesie maleitus .ida. Cursque detia
-                serim, riatque sex, ia tempor ced, perimentur. Aetus, set, ait semmastm, euienas ica in naser set, sies
-                in junem destimstom letrent, qus mih,, ago, sele mihu, getiat, tarque cuis, mitriees, get, fallus. Aera.
-              </p>
+               Our Shree Sampoorna Pooja Box is thoughtfully curated with devotion, bringing together all the essential items needed for daily prayers, festivals and special rituals — in one complete, pure and convenient set. From incense, diya wicks and camphor to kumkum, haldi, sacred threads, dhoop and carefully selected ritual offerings, every element is chosen with respect to tradition and spiritual significance. This box ensures that whenever you wish to perform pooja — at home, during travel, for ceremonies, vrats or auspicious beginnings — everything you need is already blessed, organized and ready, so your focus remains on faith, peace and devotion.</p>
             </div>
             <div className="relative">
               <Image
